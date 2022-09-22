@@ -1,0 +1,27 @@
+header {
+    width: 100vw;
+    height: 100px;
+    background-color: #008080;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+   justify-content: space-between;
+ }
+
+ .logo {
+    margin-left: 40px;
+    margin-top: 30px;
+ }
+
+ .menu ul{
+    display: flex;
+    gap: 100px;
+    margin-right: 200px;
+    margin-left: 10px;
+ }
+
+ .menu ul li a{
+   text-decoration: none;
+   color: white;
+ }
+

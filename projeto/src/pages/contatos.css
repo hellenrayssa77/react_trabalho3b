@@ -1,0 +1,138 @@
+.contact {
+    display: flex;
+    gap: 300px;
+}
+
+.ima{
+    margin-left: 1150px;
+}
+
+.ins{
+    height: 50px;
+    width: 50px;
+}
+
+.insta {
+    display: flex;
+}
+
+.whats{
+    height: 50px;
+    width: 50px;
+}
+
+.wpp{
+    display: flex;
+}
+
+.hub{
+    height: 50px;
+    width: 50px;
+}
+
+.git{
+    display: flex;
+}
+
+.lin{
+    height: 50px;
+    width: 50px;
+}
+
+.lin{
+    display: flex;
+}
+
+.html{
+    display: flex;
+}
+
+.ht{
+    height: 50px;
+    width: 50px;
+}
+
+.js{
+    height: 50px;
+    width: 50px;
+}
+
+.jvas{
+    display: flex;
+}
+
+.j{
+    height: 50px;
+    width: 50px;
+}
+
+.java{
+    display: flex;
+}
+
+.reac{
+    height: 50px;
+    width: 50px;
+}
+
+.react{
+    display: flex; 
+}
+
+.py{
+    height: 50px;
+    width: 50px;
+}
+
+.python{
+    display: flex; 
+}
+
+.ph{
+    height: 50px;
+    width: 50px;
+}
+
+.php{
+    display: flex; 
+}
+
+label{
+    color: white;
+}
+
+.btns{
+    width: 100%;
+    text-align: center;
+}
+
+.button{
+    background-color: teal;
+   
+}
+
+.button1{
+    background-color: teal; 
+    
+}
+
+.form-control5{
+    width: 300px;
+    height: 100px;
+}
+
+.form-control4{
+    width: 300px;
+}
+
+.form-control3{
+    width: 300px;
+}
+
+.form-control2{
+    width: 300px;
+}
+
+.form-control1{
+    width: 300px;
+}
